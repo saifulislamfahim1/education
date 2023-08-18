@@ -1,0 +1,336 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+    #hero #herostart{
+        width: 100%;
+    }
+
+
+    /* john */
+    #johnstart #imageone{
+        width: 33.3333333%;
+    }
+    #johnstart #imagetwo{
+        width: 33.3333333%;
+    }
+    #johnstart #imagethree{
+        width: 33.3333333%;
+    }
+        
+
+    #johnstarttwo #imagefour{
+        width: 33.3333333%;
+    }
+    #johnstarttwo #imagefive{
+        width: 33.3333333%;
+    }
+    #johnstarttwo #imagesix{
+        width: 33.3333333%;
+    }
+    /* john */
+
+    /* this is footer start */
+    #footer #footerone{
+        width: 25%;
+    }
+    #footer #footertwo{
+        width: 25%;
+    }
+    #footer #footerthree{
+        width: 25%;
+    }
+    #footer #footerfour{
+        width: 25%;
+    }
+
+    #copy #copyright{
+        width: 100%;
+    }
+    /* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    #hero #herostart{
+        width: 100%;
+    }
+
+
+    /* john */
+    #johnstart #imageone{
+        width: 33.3333333%;
+    }
+    #johnstart #imagetwo{
+        width: 33.3333333%;
+    }
+    #johnstart #imagethree{
+        width: 33.3333333%;
+    }
+        
+
+    #johnstarttwo #imagefour{
+        width: 33.3333333%;
+    }
+    #johnstarttwo #imagefive{
+        width: 33.3333333%;
+    }
+    #johnstarttwo #imagesix{
+        width: 33.3333333%;
+    }
+    /* john */
+
+    /* this is footer start */
+    #footer #footerone{
+        width: 25%;
+    }
+    #footer #footertwo{
+        width: 25%;
+    }
+    #footer #footerthree{
+        width: 25%;
+    }
+    #footer #footerfour{
+        width: 25%;
+    }
+
+    #copy #copyright{
+        width: 100%;
+    }
+    /* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    #hero #herostart{
+        width: 100%;
+    }
+
+
+    /* john */
+    #johnstart #imageone{
+        width: 33.3333333%;
+    }
+    #johnstart #imagetwo{
+        width: 33.3333333%;
+    }
+    #johnstart #imagethree{
+        width: 33.3333333%;
+    }
+        
+
+    #johnstarttwo #imagefour{
+        width: 33.3333333%;
+    }
+    #johnstarttwo #imagefive{
+        width: 33.3333333%;
+    }
+    #johnstarttwo #imagesix{
+        width: 33.3333333%;
+    }
+    /* john */
+
+    /* this is footer start */
+    #footer #footerone{
+        width: 25%;
+    }
+    #footer #footertwo{
+        width: 25%;
+    }
+    #footer #footerthree{
+        width: 25%;
+    }
+    #footer #footerfour{
+        width: 25%;
+    }
+
+    #copy #copyright{
+        width: 100%;
+    }
+    /* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    #hero #herostart{
+        width: 100%;
+    }
+
+
+    /* john */
+    #johnstart #imageone{
+        width: 33.3333333%;
+    }
+    #johnstart #imagetwo{
+        width: 33.3333333%;
+    }
+    #johnstart #imagethree{
+        width: 33.3333333%;
+    }
+    
+
+    #johnstarttwo #imagefour{
+        width: 33.3333333%;
+    }
+    #johnstarttwo #imagefive{
+        width: 33.3333333%;
+    }
+    #johnstarttwo #imagesix{
+        width: 33.3333333%;
+    }
+    /* john */
+
+    /* this is footer start */
+    #footer #footerone{
+        width: 25%;
+    }
+    #footer #footertwo{
+        width: 25%;
+    }
+    #footer #footerthree{
+        width: 25%;
+    }
+    #footer #footerfour{
+        width: 25%;
+    }
+
+    #copy #copyright{
+        width: 100%;
+    }
+    /* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    #hero #herostart{
+        width: 100%;
+    }
+
+/* john */
+    #johnstart #imageone{
+        width: 100%;
+    }
+    #johnstart #imagetwo{
+        width: 100%;
+    }
+    #johnstart #imagethree{
+        width: 100%;
+    }
+    
+
+    #johnstarttwo #imagefour{
+        width: 100%;
+    }
+    #johnstarttwo #imagefive{
+        width: 100%;
+    }
+    #johnstarttwo #imagesix{
+        width: 100%;
+    }
+    /* john */
+
+    /* this is footer start */
+    #footer #footerone{
+        width: 100%;
+    }
+    #footer #footertwo{
+        width: 100%;
+    }
+    #footer #footerthree{
+        width: 100%;
+    }
+    #footer #footerfour{
+        width: 100%;
+    }
+
+    #copy #copyright{
+        width: 100%;
+    }
+    /* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+    #hero #herostart{
+        width: 100%;
+    }
+
+
+    /* john */
+    #johnstart #imageone{
+        width: 100%;
+    }
+    #johnstart #imagetwo{
+        width: 100%;
+    }
+    #johnstart #imagethree{
+        width: 100%;
+    }
+
+
+    #johnstarttwo #imagefour{
+        width: 100%;
+    }
+    #johnstarttwo #imagefive{
+        width: 100%;
+    }
+    #johnstarttwo #imagesix{
+        width: 100%;
+    }
+    /* john */
+
+
+    /* this is footer start */
+    #footer #footerone{
+        width: 100%;
+    }
+    #footer #footertwo{
+        width: 100%;
+    }
+    #footer #footerthree{
+        width: 100%;
+    }
+    #footer #footerfour{
+        width: 100%;
+    }
+
+
+    #copy #copyright{
+        width: 100%;
+    }
+    /* this is footer end */
+    
+  }

@@ -1,0 +1,291 @@
+/* this is hero start */
+#hero #herostart{
+    width: 100%;
+    background-color: #f5f1ee;
+    margin-bottom: 80px;
+}
+.blog{
+    color: black;
+    text-align: center;
+    padding-top: 90px;
+    font-weight: 700;
+}
+.home{
+    color: gray;
+    text-align: center;
+    padding-bottom: 90px;
+    margin-top: 30px;
+}
+.home1:hover{
+    color: #1bbf72;
+}
+.site:hover{
+    color: #1bbf72;
+}
+.siteblog:hover{
+    color: #1bbf72;
+}
+.blog1:hover{
+    color: #1bbf72;
+}
+/* this is hero end */
+
+/* this is John Smith start */
+#johnstart{
+    float: left;
+}
+#johnstart #imageone{
+    width: 33.3333333%;
+    padding: 15px;
+    box-sizing: border-box;
+    float: left;
+}
+#johnstart #imagetwo{
+    width: 33.3333333%;
+    padding: 15px;
+    box-sizing: border-box;
+    float: left;
+}
+#johnstart #imagethree{
+    width: 33.3333333%;
+    padding: 15px;
+    box-sizing: border-box;
+    float: left;
+}
+
+
+
+
+#johnstarttwo{
+    margin-bottom: 100px;
+    box-sizing: border-box;
+    float: left;
+}
+#johnstarttwo #imagefour{
+    width: 33.3333333%;
+    padding: 15px;
+    box-sizing: border-box;
+    float: left;
+}
+#johnstarttwo #imagefive{
+    width: 33.3333333%;
+    padding: 15px;
+    box-sizing: border-box;
+    float: left;
+}
+#johnstarttwo #imagesix{
+    width: 33.3333333%;
+    padding: 15px;
+    box-sizing: border-box;
+    float: left;
+}
+
+
+.smith{
+    font-size: 12px;
+    color: gray;
+    margin-left: 10px;
+}
+.smith:hover{
+    color: #1bbf72;
+}
+.jan{
+    font-size: 12px;
+    color: gray;
+    margin-left: 10px;
+}
+.jan:hover{
+    color: #1bbf72;
+}
+.johntext{
+    font-size: 22px;
+    margin-top: 20px;
+    color: black;
+}
+.johntext:hover{
+    color: #1bbf72;
+}
+.readmore{
+    width: 190px;
+    height: 65px;
+    margin-top: 20px;
+    color: #1bbf72;
+    border: 2px solid #1bbf72;
+    background-color: white;
+    font-size: 18px;
+}
+.readmore:hover{
+    color: white;
+    background-color: #1bbf72;
+}
+/* this is John Smith end */
+
+/* this is footer start */
+#footer{
+    float: left;
+    background-color: #05122d;
+}
+#footer #footerone{
+    width: 25%;
+    padding: 22px;
+    box-sizing: border-box;
+    float: left;
+}
+#footer #footertwo{
+    width: 25%;
+    padding: 22px;
+    box-sizing: border-box;
+    float: left;
+}
+#footer #footerthree{
+    width: 25%;
+    padding: 22px;
+    box-sizing: border-box;
+    float: left;
+}
+#footer #footerfour{
+    width: 25%;
+    padding: 22px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.footertexth1{
+    font-weight: 700;
+    color: white;
+    margin-bottom: 30px;
+}
+.vivamus{
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+.footertextone{
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+.footertextall{
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+.footertextall:hover{
+    color: #1bbf72;
+}
+.text{
+    color: #1bbf72;
+}
+.fa-location-dot{
+    position: absolute;
+    font-size: 22px;
+    color: #1bbf72;
+    margin-top: 7px;
+}
+.iconone{
+    position: relative;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    margin-left: 28px;
+}
+.fa-phone{
+    position: absolute;
+    font-size: 20px;
+    color: #1bbf72;
+    margin-top: 12px;
+}
+.icontwo{
+    position: relative;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    margin-left: 28px;
+    margin-top: 22px;
+}
+.icontwo:hover{
+    color: #1bbf72;
+}
+.fa-envelope{
+    position: absolute;
+    font-size: 20px;
+    color: #1bbf72;
+    margin-top: 20px;
+}
+.iconthree{
+    position: relative;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    margin-left: 28px;
+    margin-top: 30px;
+}
+.iconthree:hover{
+    color: #1bbf72;
+}
+.iconfour{
+    position: relative;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    margin-left: 28px;
+    margin-top: 39px;
+}
+.fa-clock{
+    position: absolute;
+    font-size: 20px;
+    color: #1bbf72;
+    margin-top: 29px;
+}
+.fa-facebook{
+    color: white;
+    font-size: 30px;
+}
+.fa-facebook:hover{
+    color: #1bbf72;
+}
+.fa-square-twitter{
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 25px;
+    margin-bottom: 70px;
+}
+.fa-square-twitter:hover{
+    color: #1bbf72;
+}
+.fa-square-instagram{
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+.fa-square-instagram:hover{
+    color: #1bbf72;
+}
+.fa-pinterest{
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+.fa-pinterest:hover{
+    color: #1bbf72;
+}
+
+
+#copy #copyright{
+    width: 100%;
+    background-color: #020813;
+    float: left;
+}
+.design{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    padding-top: 40px;
+    margin-bottom: 40px;
+}
+/* this is footer end */
